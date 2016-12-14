@@ -1,0 +1,6 @@
+D:\真我的文档\VSProjects\socketServer\socketServer\bin\Debug\socketServer.exe.config
+D:\真我的文档\VSProjects\socketServer\socketServer\obj\Debug\socketServer.csprojResolveAssemblyReference.cache
+D:\真我的文档\VSProjects\socketServer\socketServer\bin\Debug\socketServer.exe
+D:\真我的文档\VSProjects\socketServer\socketServer\bin\Debug\socketServer.pdb
+D:\真我的文档\VSProjects\socketServer\socketServer\obj\Debug\socketServer.exe
+D:\真我的文档\VSProjects\socketServer\socketServer\obj\Debug\socketServer.pdb
